@@ -1,0 +1,21 @@
+
+.skl-ds-widget--horizontal {
+  display: flex;
+  align-items: center;
+  .skl-ds-text {
+    margin-left: 4px;
+  }
+}
+
+.skl-ds-widget--vertical {
+  text-align: center;
+  .skl-ds-text {
+    margin-top: 4px;
+  }
+}
+
+.skl-ds-widget--isButton {
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}

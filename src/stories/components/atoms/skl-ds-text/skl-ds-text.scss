@@ -1,0 +1,23 @@
+.skl-ds-text {
+  line-height: normal;
+}
+
+.skl-ds-text--black {
+  color: var(--T-surface-0-on-color);
+}
+
+.skl-ds-text--white {
+  color: var(--T-alert-on-color);
+}
+
+.skl-ds-text--small {
+  font-size: var(--text-small)
+}
+
+.skl-ds-text--medium {
+  font-size: var(--text-medium)
+}
+
+.skl-ds-text--bold {
+  font-weight: var(--text-bold)
+}
