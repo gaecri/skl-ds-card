@@ -2,7 +2,7 @@ import { Divider } from './skl-ds-divider';
 
 
 export default {
-  title: 'Example/Atoms/skl-ds-divider',
+  title: 'skl-ds-card/Atoms/skl-ds-divider',
   component: Divider,
   argTypes: {
     opacity: {

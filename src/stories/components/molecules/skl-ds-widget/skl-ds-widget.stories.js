@@ -1,7 +1,7 @@
 import { Widget } from './skl-ds-widget';
 
 export default {
-  title: 'Example/Molecules/skl-ds-widget',
+  title: 'skl-ds-card/Molecules/skl-ds-widget',
   component: Widget,
 };
 

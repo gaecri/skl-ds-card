@@ -3,7 +3,7 @@ import { Icon } from './skl-ds-icon';
 //import { iconList } from '../../../../utilities/icons';
 
 export default {
-  title: 'Example/Atoms/skl-ds-icon',
+  title: 'skl-ds-card/Atoms/skl-ds-icon',
   component: Icon,
 };
 

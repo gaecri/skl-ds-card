@@ -1,7 +1,7 @@
 import { Card } from './skl-ds-card';
 
 export default {
-  title: 'Example/Template/skl-ds-card',
+  title: 'skl-ds-card/Template/skl-ds-card',
   component: Card,
   parameters: {
     layout: 'centered',

@@ -1,7 +1,7 @@
 import { Text } from './skl-ds-text';
 
 export default {
-  title: 'Example/Atoms/skl-ds-text',
+  title: 'skl-ds-card/Atoms/skl-ds-text',
   component: Text,
 };
 
